@@ -1,0 +1,56 @@
+﻿  source.c
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(201,7): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(219,7): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(235,24): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(313,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(314,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(315,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(586,19): warning C4305: 'function': truncation from 'double' to 'GLclampf'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(586,25): warning C4305: 'function': truncation from 'double' to 'GLclampf'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(586,30): warning C4305: 'function': truncation from 'double' to 'GLclampf'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(588,18): warning C4013: 'time' undefined; assuming extern returning int
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(641,28): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(642,28): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(728,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(747,50): warning C4244: '=': conversion from 'float' to 'GLubyte', possible loss of data
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(748,52): warning C4244: '=': conversion from 'float' to 'GLubyte', possible loss of data
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(749,51): warning C4244: '=': conversion from 'float' to 'GLubyte', possible loss of data
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(800,79): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(801,79): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(806,72): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(807,72): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(817,20): warning C4305: '=': truncation from 'double' to 'float'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(805,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(872,23): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(873,23): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(943,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(947,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(951,22): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(955,22): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(968,30): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(982,25): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(991,25): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(1095,22): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(1096,22): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(1111,27): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(1151,23): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(1152,23): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(1180,22): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(1181,22): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(1210,28): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(1241,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(1251,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(1298,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(1321,27): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(1322,27): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(1365,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(1365,27): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(1409,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(1409,27): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(1427,60): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(1428,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(1430,67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\source.c(1431,67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  COMP612_A2.vcxproj -> D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\Debug\COMP612_A2.exe
+  D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A2\COMP612_A2\OpenGL-Helicopter\COMP612_A2\freeglut\bin\freeglut.dll
+  1 File(s) copied
