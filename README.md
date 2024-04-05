@@ -3,7 +3,9 @@
 
 # Instructions
  Use the `WASD` keys to move the helicopter.
+ 
  Use the `Up Arrow` and `Down Arrow` keys to move the helicopter higher or lower.
+ 
  Use the `Left Arrow` and `Right Arrow` keys to rotate the helicopter and the camera.
 
 # Screenshots
